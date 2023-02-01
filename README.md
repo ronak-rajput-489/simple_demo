@@ -16,9 +16,9 @@ pip install -r recuirenment.txt
 ```
 
 download the data set from
-```bash 
+
 https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5?usp=sharing
-```
+
 ```bash
 git init
 ```
