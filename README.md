@@ -26,6 +26,13 @@ git add .
 
 git commit -m "first commit....."
 
+git add . && git commit -m "update README.md"
+
+
+git remote add origin https://github.com/ronak-rajput-489/simple_demo.git
+git branch -M main
+git push -u origin main
+
 
 
 
