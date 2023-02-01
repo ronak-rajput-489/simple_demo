@@ -14,8 +14,10 @@ install recuirenmwnt file
 ```bash
 pip install -r recuirenment.txt
 ```
-```bash
-download the data set from https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5?usp=sharing
+
+download the data set from
+```bash 
+https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5?usp=sharing
 ```
 ```bash
 git init
